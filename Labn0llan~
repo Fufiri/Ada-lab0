@@ -1,0 +1,24 @@
+with ada.text_io; use ada.text_io;
+with ada.interger_text_io; use ada.interger_text_io;
+
+
+procedure labn0llan is
+nummer: interger;
+
+
+begin
+Put("Mata in ett heltal");
+Get(Nummer);
+
+Put("Du skrev in talet");
+Put(nummer);
+
+
+end labn0llan;
+
+
+
+
+
+
+

@@ -1,0 +1,83 @@
+V "GNAT Lib v4.8"
+M P W=b
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IO
+RV SPARK
+
+U labn0llan%b		labn0llan.adb		20a8129d NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.float_text_io%s	a-flteio.ads		a-flteio.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		20070406091342 3ffc8e18
+D a-except.ads		20120716125141 10fcae55
+D a-finali.ads		20111121113555 52ecdc1b
+D a-flteio.ads		20070406091342 e18a47a0
+D a-inteio.ads		20070406091342 f64b89a4
+D a-ioexce.ads		20091130110856 8b9de6cd
+D a-stream.ads		20090409150019 2ca4ee37
+D a-tags.ads		20111212115430 6c0509d0
+D a-textio.ads		20130104124955 386df5d4
+D a-tiflio.ads		20090409150019 56fbda09
+D a-tiinio.ads		20090409150019 aa04e5d6
+D a-unccon.ads		20070406091342 f9eb8f06
+D interfac.ads		20110906094621 129923ea
+D i-cstrea.ads		20130102105938 3286f6aa
+D labn0llan.adb		20180910184209 0f04294d
+D system.ads		20140416144310 90249111
+D s-crtl.ads		20130102105938 1ea48bce
+D s-exctab.ads		20090417131547 66e51330
+D s-ficobl.ads		20120709130952 55a71d43
+D s-finmas.ads		20111024091915 b95bb341
+D s-finroo.ads		20120426095924 4ff27390
+D s-parame.ads		20110830140625 b6e20cc0
+D s-pooglo.ads		20110804083314 542f33d0
+D s-soflin.ads		20120515094619 24c8153c
+D s-stache.ads		20090417130712 596fc1b4
+D s-stalib.ads		20130104124955 f78bcf95
+D s-stoele.ads		20090417130712 facd7d98
+D s-stoele.adb		20100617152355 afc5dc80
+D s-stopoo.ads		20111013103733 7b8fbeee
+D s-traent.ads		20090417130712 5221ee41
+D s-unstyp.ads		20090409150019 6ae15c76
+D s-wchcon.ads		20090417130712 bfeb2e3d
+X 1 ada.ads
+16K9*Ada 19e8 15|1r6 1r23 2r6 2r31 3r6 3r29
+X 4 a-flteio.ads
+20K13*Float_Text_IO[10|45] 15|3w10 3r33
+X 5 a-inteio.ads
+18K13*Integer_Text_IO[11|45] 15|2w10 2r35
+X 9 a-textio.ads
+49K13*Text_IO 471e16 15|1w10 1r27
+73I12*Field{integer}
+166U14*New_Line 15|20s1 22s1 41s1 43s1 50s1 52s1 59s1 63s1 65s1 72s1 74s1
+. 81s1 83s1 90s1 92s1 106s1
+169U14*Skip_Line 15|19s1 40s1 49s1 62s1 71s1 80s1 89s1 104s1
+206U14*Get 15|67s1 95s1
+208U14*Put 15|70s1
+240U14*Get 15|76s1 85s1 96s1 108s1
+242U14*Put 15|14s1 17s1 23s1 26s1 28s1 32s1 35s1 38s1 44s1 47s1 53s1 57s1
+. 60s1 66s1 69s1 75s1 78s1 79s1 84s1 87s1 88s1 93s1 98s1 99s1 101s1 102s1
+. 103s1 107s1 110s1 111s1 113s1 114s1 115s1
+X 10 a-tiflio.ads
+56U14*Get 15|45s1[4|20] 55s1[4|20] 109s1[4|20]
+67U14*Put 15|48s1[4|20] 61s1[4|20] 112s1[4|20]
+X 11 a-tiinio.ads
+55U14*Get 15|15s1[5|18] 24s1[5|18] 29s1[5|18] 31s1[5|18] 34s1[5|18] 37s1[5|18]
+. 54s1[5|18] 94s1[5|18]
+65U14*Put 15|18s1[5|18] 27s1[5|18] 30s1[5|18] 33s1[5|18] 36s1[5|18] 39s1[5|18]
+. 58s1[5|18] 100s1[5|18]
+67i7 Width{9|73I12} 15|18r13[5|18] 27r13[5|18] 30r13[5|18] 33r13[5|18] 36r13[5|18]
+. 39r13[5|18] 58r13[5|18] 100r13[5|18]
+X 15 labn0llan.adb
+7U11*labn0llan 7b11 119l5 119t14
+8i4 Nummer{integer} 15m5 18r5 24m5 27r5 29m5 30r5 31m5 33r5 34m5 36r5 37m5
+. 39r5 54m5 58r5 94m5 100r5
+9f4 Flyttal{float} 45m5 48r5 55m5 61r5 109m5 112r5
+10e4 Tecken{character} 67m5 70r5 95m5
+11a4 Ord{string} 76m5 79r5 85m5 85r5 88r5 96m5 102r5 108m5 108r5 114r5
+
